@@ -1,9 +1,9 @@
 {
    "type": "mssql",
    "host": "localhost",
-   "username": "sa",
-   "password": "Admin12345",
-   "database": "tempdb",
+   "username": "mingxiangchan",
+   "password": "123123",
+   "database": "youtube_dev",
    "synchronize": true,
    "logging": false,
    "entities": [
